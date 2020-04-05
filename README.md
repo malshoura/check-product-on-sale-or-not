@@ -7,4 +7,4 @@ so if you are know the basics steps to create custom api over woocommerce i  wil
 
 so here is another method to check if the specific product on sale or not 
 
-the advandage you can run my code from anywhere without include anything 
+the advandage you can run my code from anywhere 
